@@ -4,7 +4,7 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
 
 ## Conteúdo do Repositório
 
-### Dashboard 1: Dashboard V4
+### Dashboard 1: Dashboard para empresa de Marketing Digital
 ![Print 1 do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/v4%20p1.png)
 ![Print 2 do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/v4%20p2.png)
 - **Descrição**: [Breve descrição sobre o painel e os insights gerados.]
