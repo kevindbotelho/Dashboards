@@ -4,9 +4,9 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
 
 ## Conteúdo do Repositório
 
-### Dashboard 1: [Nome do Dashboard]
+### Dashboard 1: [Dashboard V4]
 - **https://app.powerbi.com/view?r=eyJrIjoiNWQ0ODVkYmEtNmZiOS00ZGU1LTg2NGEtYjc0MDlkZTVhOTRiIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9**
-- ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/v4%20p1.png)
+![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/v4%20p1.png)
 - **Descrição**: [Breve descrição sobre o painel e os insights gerados.]
 
 ### Dashboard 2: [Nome do Dashboard]
