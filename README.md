@@ -12,12 +12,12 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
   Este dash foi feito para uma empresa de serviços digitais de marketing, o painel foi estruturado em duas dimensões principais: **produto** e **faixa de faturamento**, com foco em quatro KPIs: **receita**, **ticket médio**, **churn** e **clientes ativos/cancelados**.  
 
   O dash é dividido em duas abas principais:  
-  1. **Aba Gerencial**:  
+  I. **Aba Gerencial**:  
      - Apresenta os KPIs em formato de cartão, acompanhados de um gráfico de linha para análise temporal da receita.  
      - Inclui um gráfico de barras (para a dimensão de produto) ou colunas (para faixa de faturamento), que pode ser alternado por meio de um botão.  
      - Permite filtros dinâmicos por produto, data, squad e outros critérios.  
 
-  2. **Aba Detalhada**:  
+  II. **Aba Detalhada**:  
      - Exibe os mesmos KPIs, mas em formato de tabela com porcentagens do total, permitindo uma visão comparativa entre as dimensões.  
      - Inclui uma tabela de clientes com contratos próximos ao vencimento, facilitando a identificação de oportunidades de renovação.  
      - Contém uma matriz de receita por mês e dimensão, acompanhada de um gráfico de linha para análise temporal.  
