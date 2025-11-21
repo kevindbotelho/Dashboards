@@ -97,6 +97,6 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
   
   *Nota: Este é um projeto mais extenso e detalhado. Você pode conferir a documentação completa, a metodologia e o painel interativo no repositório dedicado através do link abaixo:*
   
-  👉 **[Link para o Repositório Completo deste Projeto]**
+  👉 **[Link para o Repositório Completo deste Projeto](https://github.com/kevindbotelho/SalariosIndustriaDataScience)**
 
 - **Link para o Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiZDM2MjlmNDYtNjM2Ni00MGFjLWFlOWItMmJjZmVmZTlmMmZlIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
