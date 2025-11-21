@@ -23,7 +23,7 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
      - Contém uma matriz de receita por mês e dimensão, acompanhada de um gráfico de linha para análise temporal.  
      - Um slicer interativo permite alternar entre os KPIs na matriz e no gráfico de linha, sem afetar o restante do dashboard. 
   
-- **Link para o Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiNWQ0ODVkYmEtNmZiOS00ZGU1LTg2NGEtYjc0MDlkZTVhOTRiIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
+- **Link para o Dashboard:** [📊 Acessar Painel Interativo](https://app.powerbi.com/view?r=eyJrIjoiNWQ0ODVkYmEtNmZiOS00ZGU1LTg2NGEtYjc0MDlkZTVhOTRiIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9)
 
 ### Dashboard 2: Dashboard para empresa global de serviços laboratoriais (Logística e Vendas)
 ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20alsglobal-1.jpg)
