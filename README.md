@@ -26,9 +26,9 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
 - **Link para o Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiNWQ0ODVkYmEtNmZiOS00ZGU1LTg2NGEtYjc0MDlkZTVhOTRiIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
 
 ### Dashboard 2: Dashboard para empresa global de serviços laboratoriais (Logística e Vendas)
-- ![Print do Dashboard](#)
-- ![Print do Dashboard](#)
-- ![Print do Dashboard](#)
+- ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20alsglobal-1.jpg)
+- ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20alsglobal-2.jpg)
+- ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20alsglobal-3.jpg)
   
 - **Descrição**:
   Este painel foi desenvolvido para uma empresa líder mundial em serviços analíticos e laboratoriais, com foco na análise logística e de volume de vendas. O objetivo foi mapear o desempenho comercial através de diferentes segmentos e geografias.
