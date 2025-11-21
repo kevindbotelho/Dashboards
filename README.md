@@ -23,7 +23,7 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
      - Contém uma matriz de receita por mês e dimensão, acompanhada de um gráfico de linha para análise temporal.  
      - Um slicer interativo permite alternar entre os KPIs na matriz e no gráfico de linha, sem afetar o restante do dashboard. 
   
-- **Link para o Dashboard:** [📊 Acessar Painel Interativo](https://app.powerbi.com/view?r=eyJrIjoiNWQ0ODVkYmEtNmZiOS00ZGU1LTg2NGEtYjc0MDlkZTVhOTRiIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9)
+- 👉 **[Link para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWQ0ODVkYmEtNmZiOS00ZGU1LTg2NGEtYjc0MDlkZTVhOTRiIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9)
 
 ### Dashboard 2: Dashboard para empresa global de serviços laboratoriais (Logística e Vendas)
 ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20alsglobal-1.jpg)
@@ -46,7 +46,7 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
   III. **Página de Sugestões (Insights)**:
      - Uma seção dedicada a *data storytelling*, onde são apresentadas recomendações de negócio baseadas nos dados, como foco em campanhas para regiões específicas (ex: Texas e Califórnia) e otimização logística em meses de alta demanda (sazonalidade).
 
-- **Link para o Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiZDc3MzliNjAtMmEzYy00YTlkLThiMTgtOThmNWQ0NjU1YTdlIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
+- 👉 **[Link para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDc3MzliNjAtMmEzYy00YTlkLThiMTgtOThmNWQ0NjU1YTdlIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9)
 
 ### Dashboard 3: Dashboard de Inteligência de Mercado e Vendas (Varejo)
 ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20driva-1.jpg)
@@ -69,7 +69,7 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
   III. **Sugestões Estratégicas**:
      - Painel de recomendações acionáveis, sugerindo priorização de ações promocionais em dias específicos da semana (ex: Sábados) e estratégias de expansão física baseadas no volume de vendas por praça.
 
-- **Link para o Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiOWNhNjcxY2ItMTAyYS00MTc4LTkyZjUtMTkxNGYyNmE3MmM0IiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
+- 👉 **[Link para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWNhNjcxY2ItMTAyYS00MTc4LTkyZjUtMTkxNGYyNmE3MmM0IiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9)
 
 ### Dashboard 4: Dashboard de Gestão de Planos de Saúde e Telemedicina
 ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20mimo-1.jpg)
@@ -87,7 +87,7 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
      - Acompanhamento de métricas financeiras como **Faturamento**, **Ticket Médio** e taxa de **Inadimplência**.
      - Segmentação da base de usuários por tipo de plano (Individual vs. Familiar) e monitoramento da média de uso (consultas e acessos por usuário).
 
-- **Link para o Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiNDdiNTBiYzMtODExMS00NzdjLWFmZGQtNGEwMWI0NGUzMjBiIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
+- 👉 **[Link para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDdiNTBiYzMtODExMS00NzdjLWFmZGQtNGEwMWI0NGUzMjBiIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9)
 
 ### Dashboard 5: Análise de Salários em Data Science (2024)
 ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/An%C3%A1lise%20de%20Sal%C3%A1rio.jpg)
@@ -99,4 +99,4 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
   
   👉 **[Link para o Repositório Completo deste Projeto](https://github.com/kevindbotelho/SalariosIndustriaDataScience)**
 
-- **Link para o Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiZDM2MjlmNDYtNjM2Ni00MGFjLWFlOWItMmJjZmVmZTlmMmZlIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
+- 👉 **[Link para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDM2MjlmNDYtNjM2Ni00MGFjLWFlOWItMmJjZmVmZTlmMmZlIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9)
