@@ -26,9 +26,9 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
 - **Link para o Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiNWQ0ODVkYmEtNmZiOS00ZGU1LTg2NGEtYjc0MDlkZTVhOTRiIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
 
 ### Dashboard 2: Dashboard para empresa global de serviços laboratoriais (Logística e Vendas)
-- ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20alsglobal-1.jpg)
-- ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20alsglobal-2.jpg)
-- ![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20alsglobal-3.jpg)
+![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20alsglobal-1.jpg)
+![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20alsglobal-2.jpg)
+![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20alsglobal-3.jpg)
   
 - **Descrição**:
   Este painel foi desenvolvido para uma empresa líder mundial em serviços analíticos e laboratoriais, com foco na análise logística e de volume de vendas. O objetivo foi mapear o desempenho comercial através de diferentes segmentos e geografias.
@@ -49,9 +49,9 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
 - **Link para o Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiZDc3MzliNjAtMmEzYy00YTlkLThiMTgtOThmNWQ0NjU1YTdlIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
 
 ### Dashboard 3: Dashboard de Inteligência de Mercado e Vendas (Varejo)
-- ![Print do Dashboard](#)
-- ![Print do Dashboard](#)
-- ![Print do Dashboard](#)
+![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20driva-1.jpg)
+![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20driva-2.jpg)
+![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20driva-3.jpg)
   
 - **Descrição**:
   Desenvolvido para uma empresa de inteligência de mercado focada em eficiência comercial, este dashboard analisa dados de varejo de moda para identificar padrões de consumo e oportunidades de expansão.
@@ -72,9 +72,8 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
 - **Link para o Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiOWNhNjcxY2ItMTAyYS00MTc4LTkyZjUtMTkxNGYyNmE3MmM0IiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
 
 ### Dashboard 4: Dashboard de Gestão de Planos de Saúde e Telemedicina
-- ![Print do Dashboard](#)
-- ![Print do Dashboard](#)
-- ![Print do Dashboard](#)
+![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20mimo-1.jpg)
+![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/bi%20mimo-2.jpg)
   
 - **Descrição**:
   Este painel foi criado para uma empresa de benefícios de saúde, focando na jornada do cliente desde a aquisição do lead até a efetivação do pagamento e uso do serviço.
@@ -91,9 +90,7 @@ Este repositório foi criado para reunir os dashboards que desenvolvi utilizando
 - **Link para o Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiNDdiNTBiYzMtODExMS00NzdjLWFmZGQtNGEwMWI0NGUzMjBiIiwidCI6IjBlZTA4MTNhLWVmNmYtNGEwNy05YmMzLWI3ZDFmZjg5ZmI1ZCJ9
 
 ### Dashboard 5: Análise de Salários em Data Science (2024)
-- ![Print do Dashboard](#)
-- ![Print do Dashboard](#)
-- ![Print do Dashboard](#)
+![Print do Dashboard](https://github.com/kevindbotelho/Dashboards/blob/main/Prints/An%C3%A1lise%20de%20Sal%C3%A1rio.jpg)
   
 - **Descrição**:
   Projeto focado na análise exploratória de salários na área de dados (Data Analysts, Scientists, Engineers). O painel permite cruzar variáveis como nível de experiência, modalidade de trabalho (remoto/híbrido) e tamanho da empresa para entender a valorização do mercado global.
